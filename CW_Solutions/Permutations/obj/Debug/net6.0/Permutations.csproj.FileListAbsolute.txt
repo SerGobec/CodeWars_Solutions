@@ -1,0 +1,12 @@
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\Permutations\obj\Debug\net6.0\Permutations.csproj.AssemblyReference.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\Permutations\obj\Debug\net6.0\Permutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\Permutations\obj\Debug\net6.0\Permutations.AssemblyInfoInputs.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\Permutations\obj\Debug\net6.0\Permutations.AssemblyInfo.cs
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\Permutations\obj\Debug\net6.0\Permutations.csproj.CoreCompileInputs.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\Permutations\bin\Debug\net6.0\Permutations.deps.json
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\Permutations\bin\Debug\net6.0\Permutations.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\Permutations\bin\Debug\net6.0\Permutations.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\Permutations\obj\Debug\net6.0\Permutations.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\Permutations\obj\Debug\net6.0\refint\Permutations.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\Permutations\obj\Debug\net6.0\Permutations.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\Permutations\obj\Debug\net6.0\ref\Permutations.dll
