@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW_Solutions", "CW_Solutions\CW_Solutions.csproj", "{CCEB88EB-B2DC-42FD-A20B-B45516779F2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CW_Solutions", "CW_Solutions\CW_Solutions.csproj", "{CCEB88EB-B2DC-42FD-A20B-B45516779F2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations", "Permutations\Permutations.csproj", "{BD0B0704-5D09-44FE-969C-14E3B43C1484}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CCEB88EB-B2DC-42FD-A20B-B45516779F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCEB88EB-B2DC-42FD-A20B-B45516779F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCEB88EB-B2DC-42FD-A20B-B45516779F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0B0704-5D09-44FE-969C-14E3B43C1484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0B0704-5D09-44FE-969C-14E3B43C1484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0B0704-5D09-44FE-969C-14E3B43C1484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0B0704-5D09-44FE-969C-14E3B43C1484}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
