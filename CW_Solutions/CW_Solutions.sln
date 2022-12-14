@@ -4,8 +4,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CW_Solutions", "CW_Solutions\CW_Solutions.csproj", "{CCEB88EB-B2DC-42FD-A20B-B45516779F2D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1B71E7E7-B46B-4866-8D1E-9BF31B0BD378} = {1B71E7E7-B46B-4866-8D1E-9BF31B0BD378}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations", "Permutations\Permutations.csproj", "{BD0B0704-5D09-44FE-969C-14E3B43C1484}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Permutations", "Permutations\Permutations.csproj", "{BD0B0704-5D09-44FE-969C-14E3B43C1484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuSolutionValidator", "SudokuSolutionValidator\SudokuSolutionValidator.csproj", "{1B71E7E7-B46B-4866-8D1E-9BF31B0BD378}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +26,10 @@ Global
 		{BD0B0704-5D09-44FE-969C-14E3B43C1484}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD0B0704-5D09-44FE-969C-14E3B43C1484}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD0B0704-5D09-44FE-969C-14E3B43C1484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B71E7E7-B46B-4866-8D1E-9BF31B0BD378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B71E7E7-B46B-4866-8D1E-9BF31B0BD378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B71E7E7-B46B-4866-8D1E-9BF31B0BD378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B71E7E7-B46B-4866-8D1E-9BF31B0BD378}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

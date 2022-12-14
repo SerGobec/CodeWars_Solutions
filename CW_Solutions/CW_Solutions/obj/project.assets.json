@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/Permutations.dll": {}
         }
+      },
+      "SudokuSolutionValidator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SudokuSolutionValidator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SudokuSolutionValidator.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../Permutations/Permutations.csproj",
       "msbuildProject": "../Permutations/Permutations.csproj"
+    },
+    "SudokuSolutionValidator/1.0.0": {
+      "type": "project",
+      "path": "../SudokuSolutionValidator/SudokuSolutionValidator.csproj",
+      "msbuildProject": "../SudokuSolutionValidator/SudokuSolutionValidator.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Permutations >= 1.0.0"
+      "Permutations >= 1.0.0",
+      "SudokuSolutionValidator >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -60,6 +76,9 @@
           "projectReferences": {
             "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\Permutations\\Permutations.csproj": {
               "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\Permutations\\Permutations.csproj"
+            },
+            "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj"
             }
           }
         }

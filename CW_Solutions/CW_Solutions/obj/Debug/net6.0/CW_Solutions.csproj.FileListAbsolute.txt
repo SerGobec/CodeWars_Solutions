@@ -16,3 +16,5 @@ C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\CW_Solutions\obj\D
 C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\CW_Solutions\obj\Debug\net6.0\CW_Solutions.pdb
 C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\CW_Solutions\obj\Debug\net6.0\CW_Solutions.genruntimeconfig.cache
 C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\CW_Solutions\obj\Debug\net6.0\ref\CW_Solutions.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\CW_Solutions\bin\Debug\net6.0\SudokuSolutionValidator.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\CW_Solutions\bin\Debug\net6.0\SudokuSolutionValidator.pdb
