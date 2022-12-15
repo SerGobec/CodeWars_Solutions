@@ -10,9 +10,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CW_Solutions", "CW_Solution
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Permutations", "Permutations\Permutations.csproj", "{BD0B0704-5D09-44FE-969C-14E3B43C1484}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuSolutionValidator", "SudokuSolutionValidator\SudokuSolutionValidator.csproj", "{1B71E7E7-B46B-4866-8D1E-9BF31B0BD378}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SudokuSolutionValidator", "SudokuSolutionValidator\SudokuSolutionValidator.csproj", "{1B71E7E7-B46B-4866-8D1E-9BF31B0BD378}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuSolutionValidatorTests", "SudokuSolutionValidatorTests\SudokuSolutionValidatorTests.csproj", "{4706163E-A817-41BC-B8FB-E77666C3FE83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SudokuSolutionValidatorTests", "SudokuSolutionValidatorTests\SudokuSolutionValidatorTests.csproj", "{4706163E-A817-41BC-B8FB-E77666C3FE83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeExtractionLybrary", "RangeExtractionLybrary\RangeExtractionLybrary.csproj", "{B258D8F7-0C05-4F17-846D-6A6A64D51104}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +38,10 @@ Global
 		{4706163E-A817-41BC-B8FB-E77666C3FE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4706163E-A817-41BC-B8FB-E77666C3FE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4706163E-A817-41BC-B8FB-E77666C3FE83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B258D8F7-0C05-4F17-846D-6A6A64D51104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B258D8F7-0C05-4F17-846D-6A6A64D51104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B258D8F7-0C05-4F17-846D-6A6A64D51104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B258D8F7-0C05-4F17-846D-6A6A64D51104}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
