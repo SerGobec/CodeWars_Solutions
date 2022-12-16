@@ -1,0 +1,12 @@
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RangeExtractionLybrary\bin\Debug\net6.0\RangeExtractionLybrary.deps.json
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RangeExtractionLybrary\bin\Debug\net6.0\RangeExtractionLybrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RangeExtractionLybrary\bin\Debug\net6.0\RangeExtractionLybrary.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RangeExtractionLybrary\obj\Debug\net6.0\RangeExtractionLybrary.csproj.AssemblyReference.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RangeExtractionLybrary\obj\Debug\net6.0\RangeExtractionLybrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RangeExtractionLybrary\obj\Debug\net6.0\RangeExtractionLybrary.AssemblyInfoInputs.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RangeExtractionLybrary\obj\Debug\net6.0\RangeExtractionLybrary.AssemblyInfo.cs
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RangeExtractionLybrary\obj\Debug\net6.0\RangeExtractionLybrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RangeExtractionLybrary\obj\Debug\net6.0\RangeExtractionLybrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RangeExtractionLybrary\obj\Debug\net6.0\refint\RangeExtractionLybrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RangeExtractionLybrary\obj\Debug\net6.0\RangeExtractionLybrary.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RangeExtractionLybrary\obj\Debug\net6.0\ref\RangeExtractionLybrary.dll

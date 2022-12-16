@@ -12,6 +12,16 @@
           "bin/placeholder/Permutations.dll": {}
         }
       },
+      "RangeExtractionLybrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/RangeExtractionLybrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RangeExtractionLybrary.dll": {}
+        }
+      },
       "SudokuSolutionValidator/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -30,6 +40,11 @@
       "path": "../Permutations/Permutations.csproj",
       "msbuildProject": "../Permutations/Permutations.csproj"
     },
+    "RangeExtractionLybrary/1.0.0": {
+      "type": "project",
+      "path": "../RangeExtractionLybrary/RangeExtractionLybrary.csproj",
+      "msbuildProject": "../RangeExtractionLybrary/RangeExtractionLybrary.csproj"
+    },
     "SudokuSolutionValidator/1.0.0": {
       "type": "project",
       "path": "../SudokuSolutionValidator/SudokuSolutionValidator.csproj",
@@ -39,6 +54,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Permutations >= 1.0.0",
+      "RangeExtractionLybrary >= 1.0.0",
       "SudokuSolutionValidator >= 1.0.0"
     ]
   },
@@ -76,6 +92,9 @@
           "projectReferences": {
             "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\Permutations\\Permutations.csproj": {
               "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\Permutations\\Permutations.csproj"
+            },
+            "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\RangeExtractionLybrary\\RangeExtractionLybrary.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\RangeExtractionLybrary\\RangeExtractionLybrary.csproj"
             },
             "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj": {
               "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj"
