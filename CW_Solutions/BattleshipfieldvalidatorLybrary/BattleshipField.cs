@@ -26,15 +26,9 @@
                             Ship? ship = null; 
                             ship = FindHorisontalShip(y,x) ?? ship;
                             ship = FindVerticalShip(y, x) ?? ship;
-                            if (ship == null)
-                            {
-                                return false;
-                            }
+                            if (ship == null) return false;
                             this.Ships.Add(ship);
-                            foreach(Cell cell in ship.Cells)
-                            {
-                                clone[cell.Y, cell.X] = 1;
-                            }
+                            foreach(Cell cell in ship.Cells) clone[cell.Y, cell.X] = 1;
                         }
                     }
                 }
