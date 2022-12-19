@@ -20,7 +20,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RequiredDataILybrary", "Req
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strip Comments", "Strip Comments\Strip Comments.csproj", "{E77C6B22-4616-4449-9E4B-59AA9CA743D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleshipfieldvalidatorLybrary", "BattleshipfieldvalidatorLybrary\BattleshipfieldvalidatorLybrary.csproj", "{2A87C00C-BFCB-433F-A536-EB9D5E8E4135}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleshipfieldvalidatorLybrary", "BattleshipfieldvalidatorLybrary\BattleshipfieldvalidatorLybrary.csproj", "{2A87C00C-BFCB-433F-A536-EB9D5E8E4135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotverysecureLybrary", "NotverysecureLybrary\NotverysecureLybrary.csproj", "{68CC3C75-CC55-49A7-8C55-CC84C937D70A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -60,6 +62,10 @@ Global
 		{2A87C00C-BFCB-433F-A536-EB9D5E8E4135}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A87C00C-BFCB-433F-A536-EB9D5E8E4135}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A87C00C-BFCB-433F-A536-EB9D5E8E4135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68CC3C75-CC55-49A7-8C55-CC84C937D70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CC3C75-CC55-49A7-8C55-CC84C937D70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CC3C75-CC55-49A7-8C55-CC84C937D70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CC3C75-CC55-49A7-8C55-CC84C937D70A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
