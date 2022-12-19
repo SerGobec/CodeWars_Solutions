@@ -1,0 +1,12 @@
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\BattleshipfieldvalidatorLybrary\bin\Debug\net6.0\BattleshipfieldvalidatorLybrary.deps.json
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\BattleshipfieldvalidatorLybrary\bin\Debug\net6.0\BattleshipfieldvalidatorLybrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\BattleshipfieldvalidatorLybrary\bin\Debug\net6.0\BattleshipfieldvalidatorLybrary.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\BattleshipfieldvalidatorLybrary\obj\Debug\net6.0\BattleshipfieldvalidatorLybrary.csproj.AssemblyReference.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\BattleshipfieldvalidatorLybrary\obj\Debug\net6.0\BattleshipfieldvalidatorLybrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\BattleshipfieldvalidatorLybrary\obj\Debug\net6.0\BattleshipfieldvalidatorLybrary.AssemblyInfoInputs.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\BattleshipfieldvalidatorLybrary\obj\Debug\net6.0\BattleshipfieldvalidatorLybrary.AssemblyInfo.cs
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\BattleshipfieldvalidatorLybrary\obj\Debug\net6.0\BattleshipfieldvalidatorLybrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\BattleshipfieldvalidatorLybrary\obj\Debug\net6.0\BattleshipfieldvalidatorLybrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\BattleshipfieldvalidatorLybrary\obj\Debug\net6.0\refint\BattleshipfieldvalidatorLybrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\BattleshipfieldvalidatorLybrary\obj\Debug\net6.0\BattleshipfieldvalidatorLybrary.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\BattleshipfieldvalidatorLybrary\obj\Debug\net6.0\ref\BattleshipfieldvalidatorLybrary.dll

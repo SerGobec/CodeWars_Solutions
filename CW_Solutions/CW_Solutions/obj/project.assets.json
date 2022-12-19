@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "BattleshipfieldvalidatorLybrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BattleshipfieldvalidatorLybrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleshipfieldvalidatorLybrary.dll": {}
+        }
+      },
       "Permutations/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -35,6 +45,11 @@
     }
   },
   "libraries": {
+    "BattleshipfieldvalidatorLybrary/1.0.0": {
+      "type": "project",
+      "path": "../BattleshipfieldvalidatorLybrary/BattleshipfieldvalidatorLybrary.csproj",
+      "msbuildProject": "../BattleshipfieldvalidatorLybrary/BattleshipfieldvalidatorLybrary.csproj"
+    },
     "Permutations/1.0.0": {
       "type": "project",
       "path": "../Permutations/Permutations.csproj",
@@ -53,6 +68,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BattleshipfieldvalidatorLybrary >= 1.0.0",
       "Permutations >= 1.0.0",
       "RangeExtractionLybrary >= 1.0.0",
       "SudokuSolutionValidator >= 1.0.0"
@@ -90,6 +106,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\BattleshipfieldvalidatorLybrary\\BattleshipfieldvalidatorLybrary.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\BattleshipfieldvalidatorLybrary\\BattleshipfieldvalidatorLybrary.csproj"
+            },
             "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\Permutations\\Permutations.csproj": {
               "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\Permutations\\Permutations.csproj"
             },
