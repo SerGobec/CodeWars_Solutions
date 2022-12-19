@@ -3,13 +3,20 @@
 using static System.Console;
 //using static SudokuSolutionValidator.Sudoku;
 //using static RangeExtractionLybrary.RangeExtraction;
-
+using BattleshipfieldvalidatorLybrary;
 // Someday I will add menu :)
 
-int[,] a1 = new int[2, 3] { { 1,2,3}
-, {4,5,6}};
-int[,] a2 = (int[,]) a1.Clone();
-WriteLine(a2[0,0]);
+WriteLine( BattleshipField.ValidateBattlefield(new int[10, 10]
+                     {{1, 1, 1, 0, 0, 1, 1, 1, 0, 0},
+                      {0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                      {1, 1, 0, 0, 0, 0, 0, 1, 1, 0},
+                      {0, 0, 0, 0, 1, 1, 0, 0, 0, 0},
+                      {0, 1, 0, 0, 0, 0, 0, 0, 0, 0},
+                      {0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+                      {0, 0, 1, 0, 0, 0, 1, 0, 0, 0},
+                      {0, 0, 0, 0, 0, 0, 1, 0, 0, 1},
+                      {1, 0, 0, 0, 0, 0, 1, 0, 0, 0},
+                      {0, 0, 0, 0, 0, 0, 1, 0, 0, 0}}) );
 
 /* RangeExtraction
 WriteLine(Extract(new int[]{-10, -9, -8, -6, -3, -2, -1, 0, 1, 3, 4, 5, 7, 8, 9, 10, 11, 14, 15, 17, 18, 19, 20}));

@@ -8,12 +8,18 @@
     ".NETCoreApp,Version=v6.0": {
       "CW_Solutions/1.0.0": {
         "dependencies": {
+          "BattleshipfieldvalidatorLybrary": "1.0.0",
           "Permutations": "1.0.0",
           "RangeExtractionLybrary": "1.0.0",
           "SudokuSolutionValidator": "1.0.0"
         },
         "runtime": {
           "CW_Solutions.dll": {}
+        }
+      },
+      "BattleshipfieldvalidatorLybrary/1.0.0": {
+        "runtime": {
+          "BattleshipfieldvalidatorLybrary.dll": {}
         }
       },
       "Permutations/1.0.0": {
@@ -35,6 +41,11 @@
   },
   "libraries": {
     "CW_Solutions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BattleshipfieldvalidatorLybrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
