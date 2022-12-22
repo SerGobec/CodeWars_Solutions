@@ -7,6 +7,14 @@ using BattleshipfieldvalidatorLybrary;
 // Someday I will add menu :)
 using System.Text;
 
+
+/*
+using SumofIntervalsLybrary;
+
+using Interval = System.ValueTuple<int, int>;
+
+WriteLine( Intervals.SumIntervals(new Interval[] { (4, 5) , (5, 6), (5, 8) , (3, 9)}));*/
+
 /*
 var str = "ійAa3";
 

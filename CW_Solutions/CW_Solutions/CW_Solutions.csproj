@@ -12,6 +12,7 @@
     <ProjectReference Include="..\Permutations\Permutations.csproj" />
     <ProjectReference Include="..\RangeExtractionLybrary\RangeExtractionLybrary.csproj" />
     <ProjectReference Include="..\SudokuSolutionValidator\SudokuSolutionValidator.csproj" />
+    <ProjectReference Include="..\SumofIntervalsLybrary\SumofIntervalsLybrary.csproj" />
   </ItemGroup>
 
 </Project>
