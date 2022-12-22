@@ -11,7 +11,8 @@
           "BattleshipfieldvalidatorLybrary": "1.0.0",
           "Permutations": "1.0.0",
           "RangeExtractionLybrary": "1.0.0",
-          "SudokuSolutionValidator": "1.0.0"
+          "SudokuSolutionValidator": "1.0.0",
+          "SumofIntervalsLybrary": "1.0.0"
         },
         "runtime": {
           "CW_Solutions.dll": {}
@@ -35,6 +36,11 @@
       "SudokuSolutionValidator/1.0.0": {
         "runtime": {
           "SudokuSolutionValidator.dll": {}
+        }
+      },
+      "SumofIntervalsLybrary/1.0.0": {
+        "runtime": {
+          "SumofIntervalsLybrary.dll": {}
         }
       }
     }
@@ -61,6 +67,11 @@
       "sha512": ""
     },
     "SudokuSolutionValidator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SumofIntervalsLybrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

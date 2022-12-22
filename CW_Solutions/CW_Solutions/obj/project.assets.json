@@ -41,6 +41,16 @@
         "runtime": {
           "bin/placeholder/SudokuSolutionValidator.dll": {}
         }
+      },
+      "SumofIntervalsLybrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SumofIntervalsLybrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SumofIntervalsLybrary.dll": {}
+        }
       }
     }
   },
@@ -64,6 +74,11 @@
       "type": "project",
       "path": "../SudokuSolutionValidator/SudokuSolutionValidator.csproj",
       "msbuildProject": "../SudokuSolutionValidator/SudokuSolutionValidator.csproj"
+    },
+    "SumofIntervalsLybrary/1.0.0": {
+      "type": "project",
+      "path": "../SumofIntervalsLybrary/SumofIntervalsLybrary.csproj",
+      "msbuildProject": "../SumofIntervalsLybrary/SumofIntervalsLybrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -71,7 +86,8 @@
       "BattleshipfieldvalidatorLybrary >= 1.0.0",
       "Permutations >= 1.0.0",
       "RangeExtractionLybrary >= 1.0.0",
-      "SudokuSolutionValidator >= 1.0.0"
+      "SudokuSolutionValidator >= 1.0.0",
+      "SumofIntervalsLybrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -117,6 +133,9 @@
             },
             "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj": {
               "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj"
+            },
+            "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\SumofIntervalsLybrary\\SumofIntervalsLybrary.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\SumofIntervalsLybrary\\SumofIntervalsLybrary.csproj"
             }
           }
         }

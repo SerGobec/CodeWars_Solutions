@@ -1,0 +1,12 @@
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SumofIntervalsLybrary\bin\Debug\net6.0\SumofIntervalsLybrary.deps.json
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SumofIntervalsLybrary\bin\Debug\net6.0\SumofIntervalsLybrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SumofIntervalsLybrary\bin\Debug\net6.0\SumofIntervalsLybrary.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SumofIntervalsLybrary\obj\Debug\net6.0\SumofIntervalsLybrary.csproj.AssemblyReference.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SumofIntervalsLybrary\obj\Debug\net6.0\SumofIntervalsLybrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SumofIntervalsLybrary\obj\Debug\net6.0\SumofIntervalsLybrary.AssemblyInfoInputs.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SumofIntervalsLybrary\obj\Debug\net6.0\SumofIntervalsLybrary.AssemblyInfo.cs
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SumofIntervalsLybrary\obj\Debug\net6.0\SumofIntervalsLybrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SumofIntervalsLybrary\obj\Debug\net6.0\SumofIntervalsLybrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SumofIntervalsLybrary\obj\Debug\net6.0\refint\SumofIntervalsLybrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SumofIntervalsLybrary\obj\Debug\net6.0\SumofIntervalsLybrary.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SumofIntervalsLybrary\obj\Debug\net6.0\ref\SumofIntervalsLybrary.dll

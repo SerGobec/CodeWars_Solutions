@@ -7,6 +7,15 @@ using BattleshipfieldvalidatorLybrary;
 // Someday I will add menu :)
 using System.Text;
 
+
+/*
+using SumofIntervalsLybrary;
+
+using Interval = System.ValueTuple<int, int>;
+
+WriteLine( Intervals.SumIntervals(new Interval[] { (4, 5) , (5, 6), (5, 8) , (3, 9)}));*/
+
+/*
 var str = "ійAa3";
 
 var a = Encoding.ASCII.GetBytes(str);
@@ -14,7 +23,7 @@ var a = Encoding.ASCII.GetBytes(str);
 foreach(byte b in a)
 {
     WriteLine(b);
-}
+}*/
 
 /*WriteLine( BattleshipField.ValidateBattlefield(new int[10, 10]
                      {{1, 1, 1, 0, 0, 1, 1, 1, 0, 0},
