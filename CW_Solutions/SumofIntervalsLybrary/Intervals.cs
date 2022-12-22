@@ -5,16 +5,13 @@
         public static int SumIntervals((int, int)[] intervals)
         {
             IntervalStorer storer = new IntervalStorer();
-            foreach(var interval in intervals.OrderBy(el => el.Item1))
-            {
-                storer.AddInterval(interval);
-            }
+            foreach(var interval in intervals.OrderBy(el => el.Item1)) storer.AddInterval(interval);
             return storer.GetSumOfIntervals();
         }
 
         class IntervalStorer
         {
-            List<(int,int)> values= new List<(int,int)> ();
+            List<(int,int)> values = new List<(int,int)> ();
             public void AddInterval((int,int) interval)
             {
                 var val = values.FirstOrDefault(el => el.Item1 <= interval.Item1 && el.Item2 >= interval.Item1);
@@ -29,11 +26,8 @@
                 }
                 
             }
-
-            public int GetSumOfIntervals()
-            {
-                return values.Sum(el => el.Item2 - el.Item1);
-            }
+            public int GetSumOfIntervals() => values.Sum(el => el.Item2 - el.Item1);
+            
         }
 
     }
