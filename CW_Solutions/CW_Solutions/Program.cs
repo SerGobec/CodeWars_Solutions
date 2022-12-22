@@ -7,6 +7,7 @@ using BattleshipfieldvalidatorLybrary;
 // Someday I will add menu :)
 using System.Text;
 
+/*
 var str = "ійAa3";
 
 var a = Encoding.ASCII.GetBytes(str);
@@ -14,7 +15,7 @@ var a = Encoding.ASCII.GetBytes(str);
 foreach(byte b in a)
 {
     WriteLine(b);
-}
+}*/
 
 /*WriteLine( BattleshipField.ValidateBattlefield(new int[10, 10]
                      {{1, 1, 1, 0, 0, 1, 1, 1, 0, 0},
