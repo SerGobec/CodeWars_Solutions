@@ -24,7 +24,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleshipfieldvalidatorLyb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotverysecureLybrary", "NotverysecureLybrary\NotverysecureLybrary.csproj", "{68CC3C75-CC55-49A7-8C55-CC84C937D70A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumofIntervalsLybrary", "SumofIntervalsLybrary\SumofIntervalsLybrary.csproj", "{DE0EB4B6-2521-41F4-9D23-14AB485673C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumofIntervalsLybrary", "SumofIntervalsLybrary\SumofIntervalsLybrary.csproj", "{DE0EB4B6-2521-41F4-9D23-14AB485673C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleRotationLibrary", "RectangleRotationLibrary\RectangleRotationLibrary.csproj", "{BBD40130-6CEE-4CB7-8DB7-0302A1226960}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -72,6 +74,10 @@ Global
 		{DE0EB4B6-2521-41F4-9D23-14AB485673C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE0EB4B6-2521-41F4-9D23-14AB485673C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE0EB4B6-2521-41F4-9D23-14AB485673C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD40130-6CEE-4CB7-8DB7-0302A1226960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD40130-6CEE-4CB7-8DB7-0302A1226960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD40130-6CEE-4CB7-8DB7-0302A1226960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD40130-6CEE-4CB7-8DB7-0302A1226960}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
