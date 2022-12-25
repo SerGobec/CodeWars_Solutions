@@ -26,7 +26,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotverysecureLybrary", "Not
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumofIntervalsLybrary", "SumofIntervalsLybrary\SumofIntervalsLybrary.csproj", "{DE0EB4B6-2521-41F4-9D23-14AB485673C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleRotationLibrary", "RectangleRotationLibrary\RectangleRotationLibrary.csproj", "{BBD40130-6CEE-4CB7-8DB7-0302A1226960}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RectangleRotationLibrary", "RectangleRotationLibrary\RectangleRotationLibrary.csproj", "{BBD40130-6CEE-4CB7-8DB7-0302A1226960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenLockingPatternsLibrary", "ScreenLockingPatternsLibrary\ScreenLockingPatternsLibrary.csproj", "{15E03154-B79E-4829-BB2E-F401977B5117}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -78,6 +80,10 @@ Global
 		{BBD40130-6CEE-4CB7-8DB7-0302A1226960}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBD40130-6CEE-4CB7-8DB7-0302A1226960}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBD40130-6CEE-4CB7-8DB7-0302A1226960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E03154-B79E-4829-BB2E-F401977B5117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E03154-B79E-4829-BB2E-F401977B5117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E03154-B79E-4829-BB2E-F401977B5117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E03154-B79E-4829-BB2E-F401977B5117}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

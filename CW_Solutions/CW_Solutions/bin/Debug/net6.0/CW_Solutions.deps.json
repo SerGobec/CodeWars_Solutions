@@ -11,6 +11,7 @@
           "BattleshipfieldvalidatorLybrary": "1.0.0",
           "Permutations": "1.0.0",
           "RangeExtractionLybrary": "1.0.0",
+          "ScreenLockingPatternsLibrary": "1.0.0",
           "SudokuSolutionValidator": "1.0.0",
           "SumofIntervalsLybrary": "1.0.0"
         },
@@ -31,6 +32,11 @@
       "RangeExtractionLybrary/1.0.0": {
         "runtime": {
           "RangeExtractionLybrary.dll": {}
+        }
+      },
+      "ScreenLockingPatternsLibrary/1.0.0": {
+        "runtime": {
+          "ScreenLockingPatternsLibrary.dll": {}
         }
       },
       "SudokuSolutionValidator/1.0.0": {
@@ -62,6 +68,11 @@
       "sha512": ""
     },
     "RangeExtractionLybrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ScreenLockingPatternsLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

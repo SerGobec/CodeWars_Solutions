@@ -9,6 +9,14 @@ using System.Text;
 
 
 /*
+using ScreenLockingPatternsLibrary;
+
+
+Console.WriteLine( ScreenLockingPatternsLibrary.Kata.CountPatternsFrom('C', 2) );
+Console.WriteLine( ScreenLockingPatternsLibrary.Kata.CountPatternsFrom('D', 3) );
+Console.WriteLine( ScreenLockingPatternsLibrary.Kata.CountPatternsFrom('E', 4) );
+*/
+/*
 using SumofIntervalsLybrary;
 
 using Interval = System.ValueTuple<int, int>;

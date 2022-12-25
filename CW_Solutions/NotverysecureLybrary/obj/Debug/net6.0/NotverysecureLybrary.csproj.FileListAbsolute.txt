@@ -1,0 +1,12 @@
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\NotverysecureLybrary\bin\Debug\net6.0\NotverysecureLybrary.deps.json
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\NotverysecureLybrary\bin\Debug\net6.0\NotverysecureLybrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\NotverysecureLybrary\bin\Debug\net6.0\NotverysecureLybrary.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\NotverysecureLybrary\obj\Debug\net6.0\NotverysecureLybrary.csproj.AssemblyReference.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\NotverysecureLybrary\obj\Debug\net6.0\NotverysecureLybrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\NotverysecureLybrary\obj\Debug\net6.0\NotverysecureLybrary.AssemblyInfoInputs.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\NotverysecureLybrary\obj\Debug\net6.0\NotverysecureLybrary.AssemblyInfo.cs
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\NotverysecureLybrary\obj\Debug\net6.0\NotverysecureLybrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\NotverysecureLybrary\obj\Debug\net6.0\NotverysecureLybrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\NotverysecureLybrary\obj\Debug\net6.0\refint\NotverysecureLybrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\NotverysecureLybrary\obj\Debug\net6.0\NotverysecureLybrary.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\NotverysecureLybrary\obj\Debug\net6.0\ref\NotverysecureLybrary.dll
