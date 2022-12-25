@@ -1,0 +1,12 @@
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RectangleRotationLibrary\bin\Debug\net6.0\RectangleRotationLibrary.deps.json
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RectangleRotationLibrary\bin\Debug\net6.0\RectangleRotationLibrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RectangleRotationLibrary\bin\Debug\net6.0\RectangleRotationLibrary.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RectangleRotationLibrary\obj\Debug\net6.0\RectangleRotationLibrary.csproj.AssemblyReference.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RectangleRotationLibrary\obj\Debug\net6.0\RectangleRotationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RectangleRotationLibrary\obj\Debug\net6.0\RectangleRotationLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RectangleRotationLibrary\obj\Debug\net6.0\RectangleRotationLibrary.AssemblyInfo.cs
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RectangleRotationLibrary\obj\Debug\net6.0\RectangleRotationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RectangleRotationLibrary\obj\Debug\net6.0\RectangleRotationLibrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RectangleRotationLibrary\obj\Debug\net6.0\refint\RectangleRotationLibrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RectangleRotationLibrary\obj\Debug\net6.0\RectangleRotationLibrary.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RectangleRotationLibrary\obj\Debug\net6.0\ref\RectangleRotationLibrary.dll

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "RectangleRotationLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/RectangleRotationLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RectangleRotationLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RectangleRotationLibrary/1.0.0": {
+      "type": "project",
+      "path": "../RectangleRotationLibrary/RectangleRotationLibrary.csproj",
+      "msbuildProject": "../RectangleRotationLibrary/RectangleRotationLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "RectangleRotationLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\User\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\RectangleRotationLibrary\\RectangleRotationLibrary.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\RectangleRotationLibrary\\RectangleRotationLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

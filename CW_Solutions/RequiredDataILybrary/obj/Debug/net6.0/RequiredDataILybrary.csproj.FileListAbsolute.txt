@@ -1,0 +1,12 @@
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\bin\Debug\net6.0\RequiredDataILybrary.deps.json
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\bin\Debug\net6.0\RequiredDataILybrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\bin\Debug\net6.0\RequiredDataILybrary.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\obj\Debug\net6.0\RequiredDataILybrary.csproj.AssemblyReference.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\obj\Debug\net6.0\RequiredDataILybrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\obj\Debug\net6.0\RequiredDataILybrary.AssemblyInfoInputs.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\obj\Debug\net6.0\RequiredDataILybrary.AssemblyInfo.cs
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\obj\Debug\net6.0\RequiredDataILybrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\obj\Debug\net6.0\RequiredDataILybrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\obj\Debug\net6.0\refint\RequiredDataILybrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\obj\Debug\net6.0\RequiredDataILybrary.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\obj\Debug\net6.0\ref\RequiredDataILybrary.dll

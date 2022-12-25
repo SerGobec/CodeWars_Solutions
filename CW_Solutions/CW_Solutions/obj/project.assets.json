@@ -32,6 +32,16 @@
           "bin/placeholder/RangeExtractionLybrary.dll": {}
         }
       },
+      "ScreenLockingPatternsLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ScreenLockingPatternsLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ScreenLockingPatternsLibrary.dll": {}
+        }
+      },
       "SudokuSolutionValidator/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -70,6 +80,11 @@
       "path": "../RangeExtractionLybrary/RangeExtractionLybrary.csproj",
       "msbuildProject": "../RangeExtractionLybrary/RangeExtractionLybrary.csproj"
     },
+    "ScreenLockingPatternsLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ScreenLockingPatternsLibrary/ScreenLockingPatternsLibrary.csproj",
+      "msbuildProject": "../ScreenLockingPatternsLibrary/ScreenLockingPatternsLibrary.csproj"
+    },
     "SudokuSolutionValidator/1.0.0": {
       "type": "project",
       "path": "../SudokuSolutionValidator/SudokuSolutionValidator.csproj",
@@ -86,6 +101,7 @@
       "BattleshipfieldvalidatorLybrary >= 1.0.0",
       "Permutations >= 1.0.0",
       "RangeExtractionLybrary >= 1.0.0",
+      "ScreenLockingPatternsLibrary >= 1.0.0",
       "SudokuSolutionValidator >= 1.0.0",
       "SumofIntervalsLybrary >= 1.0.0"
     ]
@@ -130,6 +146,9 @@
             },
             "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\RangeExtractionLybrary\\RangeExtractionLybrary.csproj": {
               "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\RangeExtractionLybrary\\RangeExtractionLybrary.csproj"
+            },
+            "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\ScreenLockingPatternsLibrary\\ScreenLockingPatternsLibrary.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\ScreenLockingPatternsLibrary\\ScreenLockingPatternsLibrary.csproj"
             },
             "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj": {
               "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj"
