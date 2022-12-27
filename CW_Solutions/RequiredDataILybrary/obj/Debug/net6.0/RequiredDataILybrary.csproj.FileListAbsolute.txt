@@ -10,3 +10,6 @@ C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybra
 C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\obj\Debug\net6.0\refint\RequiredDataILybrary.dll
 C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\obj\Debug\net6.0\RequiredDataILybrary.pdb
 C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\obj\Debug\net6.0\ref\RequiredDataILybrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\bin\Debug\net6.0\RectangleRotationLibrary.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\bin\Debug\net6.0\RectangleRotationLibrary.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\RequiredDataILybrary\obj\Debug\net6.0\RequiredDataILybrary.csproj.CopyComplete

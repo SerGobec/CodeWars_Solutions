@@ -61,6 +61,16 @@
         "runtime": {
           "bin/placeholder/SumofIntervalsLybrary.dll": {}
         }
+      },
+      "SurviveAttack/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SurviveAttack.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SurviveAttack.dll": {}
+        }
       }
     }
   },
@@ -94,6 +104,11 @@
       "type": "project",
       "path": "../SumofIntervalsLybrary/SumofIntervalsLybrary.csproj",
       "msbuildProject": "../SumofIntervalsLybrary/SumofIntervalsLybrary.csproj"
+    },
+    "SurviveAttack/1.0.0": {
+      "type": "project",
+      "path": "../SurviveAttack/SurviveAttack.csproj",
+      "msbuildProject": "../SurviveAttack/SurviveAttack.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -103,7 +118,8 @@
       "RangeExtractionLybrary >= 1.0.0",
       "ScreenLockingPatternsLibrary >= 1.0.0",
       "SudokuSolutionValidator >= 1.0.0",
-      "SumofIntervalsLybrary >= 1.0.0"
+      "SumofIntervalsLybrary >= 1.0.0",
+      "SurviveAttack >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -155,6 +171,9 @@
             },
             "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\SumofIntervalsLybrary\\SumofIntervalsLybrary.csproj": {
               "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\SumofIntervalsLybrary\\SumofIntervalsLybrary.csproj"
+            },
+            "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\SurviveAttack\\SurviveAttack.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\SurviveAttack\\SurviveAttack.csproj"
             }
           }
         }

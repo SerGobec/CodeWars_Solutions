@@ -26,3 +26,5 @@ C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\CW_Solutions\bin\D
 C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\CW_Solutions\bin\Debug\net6.0\SumofIntervalsLybrary.pdb
 C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\CW_Solutions\bin\Debug\net6.0\ScreenLockingPatternsLibrary.dll
 C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\CW_Solutions\bin\Debug\net6.0\ScreenLockingPatternsLibrary.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\CW_Solutions\bin\Debug\net6.0\SurviveAttack.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\CW_Solutions\bin\Debug\net6.0\SurviveAttack.pdb
