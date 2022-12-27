@@ -8,6 +8,12 @@ using BattleshipfieldvalidatorLybrary;
 using System.Text;
 
 
+
+
+//using SurviveAttack;
+
+//WriteLine(SurviveAttack.Kata.HasSurvived(new[] { 2, 9, 9, 7 }, new[] { 1 }));
+
 /*
 using ScreenLockingPatternsLibrary;
 

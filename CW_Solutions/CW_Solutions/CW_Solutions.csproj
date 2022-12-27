@@ -14,6 +14,7 @@
     <ProjectReference Include="..\ScreenLockingPatternsLibrary\ScreenLockingPatternsLibrary.csproj" />
     <ProjectReference Include="..\SudokuSolutionValidator\SudokuSolutionValidator.csproj" />
     <ProjectReference Include="..\SumofIntervalsLybrary\SumofIntervalsLybrary.csproj" />
+    <ProjectReference Include="..\SurviveAttack\SurviveAttack.csproj" />
   </ItemGroup>
 
 </Project>

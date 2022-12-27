@@ -1,0 +1,12 @@
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SurviveAttack\bin\Debug\net6.0\SurviveAttack.deps.json
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SurviveAttack\bin\Debug\net6.0\SurviveAttack.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SurviveAttack\bin\Debug\net6.0\SurviveAttack.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SurviveAttack\obj\Debug\net6.0\SurviveAttack.csproj.AssemblyReference.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SurviveAttack\obj\Debug\net6.0\SurviveAttack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SurviveAttack\obj\Debug\net6.0\SurviveAttack.AssemblyInfoInputs.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SurviveAttack\obj\Debug\net6.0\SurviveAttack.AssemblyInfo.cs
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SurviveAttack\obj\Debug\net6.0\SurviveAttack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SurviveAttack\obj\Debug\net6.0\SurviveAttack.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SurviveAttack\obj\Debug\net6.0\refint\SurviveAttack.dll
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SurviveAttack\obj\Debug\net6.0\SurviveAttack.pdb
+C:\Users\User\source\CodeWars\CodeWars_Solutions\CW_Solutions\SurviveAttack\obj\Debug\net6.0\ref\SurviveAttack.dll

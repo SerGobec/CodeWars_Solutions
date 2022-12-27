@@ -13,7 +13,8 @@
           "RangeExtractionLybrary": "1.0.0",
           "ScreenLockingPatternsLibrary": "1.0.0",
           "SudokuSolutionValidator": "1.0.0",
-          "SumofIntervalsLybrary": "1.0.0"
+          "SumofIntervalsLybrary": "1.0.0",
+          "SurviveAttack": "1.0.0"
         },
         "runtime": {
           "CW_Solutions.dll": {}
@@ -47,6 +48,11 @@
       "SumofIntervalsLybrary/1.0.0": {
         "runtime": {
           "SumofIntervalsLybrary.dll": {}
+        }
+      },
+      "SurviveAttack/1.0.0": {
+        "runtime": {
+          "SurviveAttack.dll": {}
         }
       }
     }
@@ -83,6 +89,11 @@
       "sha512": ""
     },
     "SumofIntervalsLybrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SurviveAttack/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
