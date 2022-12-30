@@ -6,7 +6,9 @@ using static System.Console;
 using BattleshipfieldvalidatorLybrary;
 // Someday I will add menu :)
 using System.Text;
+using AddingBigNumberLibrary;
 
+WriteLine(Kata.Add("555", "555"));
 
 
 

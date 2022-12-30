@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "AddingBigNumberLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AddingBigNumberLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AddingBigNumberLibrary.dll": {}
+        }
+      },
       "BattleshipfieldvalidatorLybrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -75,6 +85,11 @@
     }
   },
   "libraries": {
+    "AddingBigNumberLibrary/1.0.0": {
+      "type": "project",
+      "path": "../AddingBigNumberLibrary/AddingBigNumberLibrary.csproj",
+      "msbuildProject": "../AddingBigNumberLibrary/AddingBigNumberLibrary.csproj"
+    },
     "BattleshipfieldvalidatorLybrary/1.0.0": {
       "type": "project",
       "path": "../BattleshipfieldvalidatorLybrary/BattleshipfieldvalidatorLybrary.csproj",
@@ -113,6 +128,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "AddingBigNumberLibrary >= 1.0.0",
       "BattleshipfieldvalidatorLybrary >= 1.0.0",
       "Permutations >= 1.0.0",
       "RangeExtractionLybrary >= 1.0.0",
@@ -154,6 +170,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\AddingBigNumberLibrary\\AddingBigNumberLibrary.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\AddingBigNumberLibrary\\AddingBigNumberLibrary.csproj"
+            },
             "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\BattleshipfieldvalidatorLybrary\\BattleshipfieldvalidatorLybrary.csproj": {
               "projectPath": "C:\\Users\\User\\source\\CodeWars\\CodeWars_Solutions\\CW_Solutions\\BattleshipfieldvalidatorLybrary\\BattleshipfieldvalidatorLybrary.csproj"
             },

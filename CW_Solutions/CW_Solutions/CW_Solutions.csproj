@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AddingBigNumberLibrary\AddingBigNumberLibrary.csproj" />
     <ProjectReference Include="..\BattleshipfieldvalidatorLybrary\BattleshipfieldvalidatorLybrary.csproj" />
     <ProjectReference Include="..\Permutations\Permutations.csproj" />
     <ProjectReference Include="..\RangeExtractionLybrary\RangeExtractionLybrary.csproj" />
